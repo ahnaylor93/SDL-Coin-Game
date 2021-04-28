@@ -1,0 +1,6 @@
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_15\SDLGame3\x64\Debug\SDLGame3.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_15\SDLGame3\x64\Debug\SDLGame3.pdb
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_16\SDLGame3\x64\Debug\SDLGame3.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_16\SDLGame3\x64\Debug\SDLGame3.pdb
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_17\SDLGame3\x64\Debug\SDLGame3.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_17\SDLGame3\x64\Debug\SDLGame3.pdb
